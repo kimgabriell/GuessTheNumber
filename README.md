@@ -1,2 +1,4 @@
 # GuessTheNumber
-Guessing Game from 1-100
+Guessing Game
+
+Guess the Rand Number from 1-100
