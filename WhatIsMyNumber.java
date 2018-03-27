@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author KG_Medel
+ * @author kimgabriell
  */
 public class WhatIsMyNumber {
     
